@@ -1,3 +1,5 @@
+## Cleaning and summarizing Smartphone accelerometer data
+
 The dataset in this repo (tidydata.csv) was compiled from data orignially collected from the accelerometers from the Samsung Galaxy S smartphones. A full description of the original data is available here:   http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and the data that were input into the script shared in this repo can be downloaded here:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The script (run_analysis.R) does the following steps:
